@@ -1,0 +1,24 @@
+# Simplest Notes
+
+> Simple, fast, ad-free, and offline-first note-taking app for Android. 
+> Available on RuStore, GitHub Releases, and F-Droid. Works 100% offline.
+
+## App Info
+- [Homepage](https://trase1.github.io/Simplest-Notes/)
+- [Source Code](https://github.com/Trase1/SimplestNotes-app)
+- [FAQ](https://trase1.github.io/Simplest-Notes/faq/) (You'll need to create this)
+
+## Download Options
+- [RuStore](https://apps.rustore.ru/app/com.traseapps.simplestNotes)
+- [APK from GitHub](https://github.com/Trase1/SimplestNotes-app/releases/latest)
+- [F-Droid / IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.traseapps.simplestNotes)
+
+## Features
+- One-tap note creation.
+- Color-coded priorities.
+- 100% offline data storage.
+- No ads.
+- Open-source (MIT license).
+
+## Changelog & Releases
+- [Latest Release Notes](https://github.com/Trase1/SimplestNotes-app/releases/latest)
