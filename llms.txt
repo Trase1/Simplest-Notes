@@ -6,7 +6,7 @@
 ## App Info
 - [Homepage](https://trase1.github.io/Simplest-Notes/)
 - [Source Code](https://github.com/Trase1/SimplestNotes-app)
-- [FAQ](https://trase1.github.io/Simplest-Notes/faq/) (You'll need to create this)
+
 
 ## Download Options
 - [RuStore](https://apps.rustore.ru/app/com.traseapps.simplestNotes)
